@@ -11,4 +11,9 @@ phases:
       - echo Building the Docker image...
       - cd ver2.0/
       - docker build -t $IMAGE_REPO_NAME:$IMAGE_TAG .
-      - docker tag $IMAGE_REPO_NAME:$IMAGE_TAG 396654005341.dkr.ecr.us-east-1.amazonaws.com/
+      - docker tag $IMAGE_REPO_NAME:$IMAGE_TAG 396654005341.dkr.ecr.us-east-1.amazonaws.com/devops-hw-5:latest
+  post_build:
+    commands:
+      - echo Build completed on `date`
+      - echo Pushing the Docker image...
+      - docker push 396654005341.dkr.ecr.us-east-1.amazonaws.com/devops-hw-5:latest
