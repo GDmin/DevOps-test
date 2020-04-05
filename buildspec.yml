@@ -3,17 +3,16 @@ version: 0.2
 phases:
   install:
     runtime-versions:
-      java: corretto8
+      python: 3.7
   pre_build:
     commands:
       - echo Logging in to Amazon ECR...
-      - $(aws ecr get-login --no-include-email --region $AWS_DEFAULT_REGION)
+      - $(aws ecr get-login --no-include-email --registry-ids 396654005341 --region us-east-1)
   build:
-    commandsa:
+    commands:
       - echo Build started on `date`
       - echo Building the Docker image...
-      - docker build -t $IMAGE_REPO_NAME:$IMAGE_TAG .
-      - docker tag $IMAGE_REPO_NAME:$IMAGE_TAG 396654005341.dkr.ecr.us-east-1.amazonaws.com/devops-hw-5:latest
+      - sh build.sh
   post_build:
     commands:
       - echo Build completed on `date`
