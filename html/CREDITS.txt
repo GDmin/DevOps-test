@@ -1,20 +1,14 @@
 # Image Credits
 
-All images courtesy of Unsplash (https://unsplash.com).
+All images courtesy of Unsplash (unsplash.com).
 
-- Atikh Bana (https://unsplash.com/photos/_KaMTEmJnxY)
-- Andrew Phillips (https://unsplash.com/photos/ja7HXtegW2Y)
-- Alexander Shustov (https://unsplash.com/photos/AHBiSKaENwc)
-- Danielle Marroquin (https://unsplash.com/photos/SwcnAmIRZYc)
-- Roksolana Zasiadko (https://unsplash.com/photos/LyeduBb2Auk)
-- Abigail Keenan (https://unsplash.com/photos/99C5lrAyxpQ)
-- Jakob Owens (https://unsplash.com/photos/QpCeIDRjlUs)
-- Roksolana Zasiadko (https://unsplash.com/photos/3EaevlO2uPI)
-- Hieu Le (https://unsplash.com/photos/u6LGX2VMOP4)
-- Sylvain Reygaerts (https://unsplash.com/photos/sqaBLMDd6JQ)
-- Alexandru Zdrobău (https://unsplash.com/photos/BGz8vO3pK8k)
-- Ryan Moreno (https://unsplash.com/photos/epQjDxojjtA)
-- Kaci Baum (https://unsplash.com/photos/BLF5vzY6d7s)
-- Averie Woodard (https://unsplash.com/photos/th3rQu0K3aM)
-- Jorge Flores (https://unsplash.com/photos/QXRA2krh0_g)
-- Jakob Owens (https://unsplash.com/photos/jmi61XJe450)
+- Kiwihug (unsplash.com/photos/ZzHnFYMYBrg)
+- Geran de Klerk (unsplash.com/search/photos/forest?photo=5hGsBw6gsws)
+- Lesly B Juarez (unsplash.com/collections/779311/inspirational?photo=UxhZ8ZMHIvA)
+- Lacey Raper(unsplash.com/photos/ey1Obz7I2fw)
+- Sebastian Pichler(unsplash.com/photos/sblp4evk2gs)
+- Tyler Lastovich(unsplash.com/photos/ILlmVlkNcHU)
+- Sandis Helvigs(unsplash.com/photos/W6whx1017pg)
+- Doug Robichaud(unsplash.com/photos/C4ny6HRtBZI)
+- Felix Russel Saw(unsplash.com/photos/4A0sC9xhPTk)
+- Geran de Klerk (unsplash.com/search/photos/walking?photo=Kcxv7Gz7wmw)
